@@ -28,35 +28,9 @@ Friday - RLA
 ## Lecture
 ### Place Value Blocks
 Write manually on the board in place-value blocks:
-1
-3
-8
-18
-47
-23
-50
-38
-237
-553
-463
-167
+1, 3, 8, 18, 47, 23, 50, 38, 237, 553, 463, 167
 
-Then have practice problems:
-2
-4
-0
-5
-27
-57
-82
-42
-15
-526
-308
-839
-601
-443
+Then have practice problems to do with me:
+2, 4, 0, 5, 27, 57, 82, 42, 15, 526, 308, 839, 601, 443
 
-
-## Homework: Grade 3 Unit 1 Lesson 1 on Khan Academy
-
+## Homework: Grade 3 Unit 1 Lesson 1 on Khan Academy + Week 1 Math HW
