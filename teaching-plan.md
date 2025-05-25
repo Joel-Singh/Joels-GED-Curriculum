@@ -11,12 +11,17 @@
 - ReadTheory
 
 # Tutoring Schedule
-4 Days a week, I go through material that Khan Academy or Readtheory would do, and mom has to spend time on her own doing them. 50 mins
-Give 2 "hours" of homework each day "due" the next schooling day
+4 Days a week for 50 mins, I go through material that Khan Academy or Readtheory would do, and mom has to spend time on her own doing them.
+Give homework for each subject due the next lecture
+
+Use the whiteboard cuz you like using a whitebboard
 
 Sunday - Math. +20 extra minutes of typing practice
+
 Saturday - Science
+
 Wednesday - Social Studies
+
 Friday - RLA
 
 # Week 1
@@ -27,10 +32,58 @@ Friday - RLA
 # Sunday Math: Place Value Blocks + Place Value Tables + Identifying Value In Digits
 ## Lecture
 ### Place Value Blocks
-Write manually on the board in place-value blocks:
+Example problems for lecture:
 1, 3, 8, 18, 47, 23, 50, 38, 237, 553, 463, 167
 
-Then have practice problems to do with me:
+Example problems together:
 2, 4, 0, 5, 27, 57, 82, 42, 15, 526, 308, 839, 601, 443
 
-## Homework: Grade 3 Unit 1 Lesson 1 on Khan Academy + Week 1 Math HW
+### Place Value Tables
+Example problems for lecture:
+9, 3, 8, 4, 76, 27, 14, 19, 46, 729, 791, 175, 674, 283
+
+Example problems together:
+3, 7, 9, 6, 86, 46, 69, 96, 743, 480, 956, 997
+
+### Identifying Value In Digits
+Example problems for lecture:
+2, (What does 2 represent?)
+1, (What does 1 represent?)
+4, (What does 4 represent?)
+5, (What does 5 represent?)
+56, (What does 6 represent?)
+97, (What does 9 represent?)
+36, (What does 3 represent?)
+49, (What does 9 represent?)
+71, (What does 7 represent?)
+38, (What does 3 represent?)
+724, (What does 2 represent?)
+344, (What does 3 represent?)
+876, (What does 6 represent?)
+714, (What does 7 represent?)
+282, (What does 8 represent?)
+
+Example problems together:
+2, (What does 2 represent?)
+4, (What does 4 represent?)
+1, (What does 1 represent?)
+9, (What does 9 represent?)
+7, (What does 7 represent?)
+40, (What does 40 represent?)
+90, (What does 90 represent?)
+53, (What does 53 represent?)
+25, (What does 25 represent?)
+67, (What does 67 represent?)
+879, (What does 879 represent?)
+163, (What does 163 represent?)
+146, (What does 146 represent?)
+809, (What does 809 represent?)
+265, (What does 265 represent?)
+
+### 20 minutes of typing
+Set up typing.com account + go through the first lesson
+
+## Homework: 
+- Grade 3 Unit 1 Lesson 1 on Khan Academy 
+- Week 1 Math HW
+- 1 hour of typing practice 
