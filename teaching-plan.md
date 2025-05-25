@@ -16,9 +16,9 @@ Give homework for each subject due the next lecture
 
 Use the whiteboard cuz you like using a whitebboard
 
-Sunday - Math. +20 extra minutes of typing practice
-
 Saturday - Science
+
+Sunday - Math. +20 extra minutes of typing practice
 
 Wednesday - Social Studies
 
