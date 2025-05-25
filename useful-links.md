@@ -17,3 +17,6 @@ https://www.ged.com/educators-admins/teaching/classroom_materials/
 
 # ReadTheory: Practice reading comprehension
 readtheory.org
+
+# Reddit post discussing passing the GED Social Studies 
+https://www.reddit.com/r/GED/comments/1h5mxrt/the_ged_social_studies_test_comprehensive_study/
