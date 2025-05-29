@@ -20,9 +20,23 @@ Saturday - Science
 
 Sunday - Math. +20 extra minutes of typing practice
 
-Wednesday - Social Studies
+Wednesday - Social Studies (Guided reading of non-fiction texts and watching videos related to social studies)
 
-Friday - RLA
+Friday - RLA (Likely with read theory)
+
+# Week 2
+# Wednesday
+
+Watching videos, emphasize what's going to be on the actual GED and create homework for her to go back to the videos (do the first 2 together.)
+
+Explicitly go over the restate the question, and then answer it for answering questions.
+
+Episodes 1 through 3 of Crash Course history
+1: https://www.youtube.com/watch?v=lrk4oY7UxpQ
+2: https://www.youtube.com/watch?v=n9defOwVWS8
+3: https://www.youtube.com/watch?v=0bf3CwYCxXw
+
+Friday
 
 # Week 1
 # Wednesday
@@ -49,10 +63,7 @@ Example problems together:
 Example problems for lecture:
 2, (What does 2 represent?)
 1, (What does 1 represent?)
-4, (What does 4 represent?)
-5, (What does 5 represent?)
-56, (What does 6 represent?)
-97, (What does 9 represent?)
+4, (What does 4 represent?) 5, (What does 5 represent?) 56, (What does 6 represent?) 97, (What does 9 represent?)
 36, (What does 3 represent?)
 49, (What does 9 represent?)
 71, (What does 7 represent?)
@@ -86,4 +97,3 @@ Set up typing.com account + go through the first lesson
 ## Homework: 
 - Grade 3 Unit 1 Lesson 1 on Khan Academy 
 - Week 1 Math HW
-- 1 hour of typing practice 
