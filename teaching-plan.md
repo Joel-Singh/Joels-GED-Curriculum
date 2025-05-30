@@ -25,7 +25,7 @@ Wednesday - Social Studies (Guided reading of non-fiction texts and watching vid
 Friday - RLA (Likely with read theory)
 
 # Week 2
-# Wednesday
+## Wednesday
 
 Watching videos, emphasize what's going to be on the actual GED and create homework for her to go back to the videos (do the first 2 together.)
 
@@ -36,7 +36,9 @@ Episodes 1 through 3 of Crash Course history
 2: https://www.youtube.com/watch?v=n9defOwVWS8
 3: https://www.youtube.com/watch?v=0bf3CwYCxXw
 
-Friday
+## Friday
+
+Spending 50 minutes simply on readtheory. Print out an assignment that simply says to do 2 Readtheory quizzes.
 
 # Week 1
 # Wednesday
