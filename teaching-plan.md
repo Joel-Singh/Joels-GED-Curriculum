@@ -58,7 +58,10 @@ Unit 1: "Organization in the human body", "Sensory processing and the brain". Ma
 Going to teach 2 digit addition
 
 Start with one digit addition using hands:
+2 + 7 = 9, 2 + 1 = 3, 4 + 4 = 8, 5 + 2 = 7, 1 + 4 = 5, 5 + 3 = 8, 1 + 8 = 9, 7 + 1 = 8, 2 + 1 = 3, 5 + 1 = 6,
 
+Then do two digit addition with carrying:
+35 + 76 = 111, 60 + 70 = 130, 29 + 1 = 30, 55 + 55 = 110, 84 + 49 = 133, 51 + 35 = 86, 87 + 61 = 148, 10 + 19 = 29, 83 + 31 = 114, 14 + 30 = 44,
 
 # Week 1
 # Wednesday
