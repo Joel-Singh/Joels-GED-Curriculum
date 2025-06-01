@@ -25,7 +25,7 @@ Wednesday - Social Studies (Guided reading of non-fiction texts and watching vid
 Friday - RLA (Likely with read theory)
 
 # Week 2
-## Wednesday
+## Wednesday: Social Studies
 
 Watching videos, emphasize what's going to be on the actual GED and create homework for her to go back to the videos (do the first 2 together.)
 
@@ -36,9 +36,29 @@ Episodes 1 through 3 of Crash Course history
 2: https://www.youtube.com/watch?v=n9defOwVWS8
 3: https://www.youtube.com/watch?v=0bf3CwYCxXw
 
-## Friday
+## Friday: RLA
 
 Spending 50 minutes simply on readtheory. Print out an assignment that simply says to do 2 Readtheory quizzes.
+
+## Saturday: Science
+
+Go through the Khan Academy videos, verbal quiz on each keypoints page
+
+### During Class
+Khan Academy: Middle School Biology
+Unit 1: "Cells and Organisms", "Cell parts and functions"
+
+Any extra time is spent on typing practice.
+
+### Homework
+Khan Academy: Middle School Biology
+Unit 1: "Organization in the human body", "Sensory processing and the brain". Make sure to finish the Unit 1 test, we'll go over it in class next time
+
+## Sunday: Math
+Going to teach 2 digit addition
+
+Start with one digit addition using hands:
+
 
 # Week 1
 # Wednesday
