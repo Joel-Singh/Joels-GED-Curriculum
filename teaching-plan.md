@@ -20,9 +20,19 @@ Saturday - Science
 
 Sunday - Math. +20 extra minutes of typing practice
 
-Wednesday - Social Studies (Guided reading of non-fiction texts and watching videos related to social studies)
+Wednesday - Social Studies (Watching videos and writing to get mom better at writing)
 
 Friday - RLA (Likely with read theory)
+
+# Week 3
+## Wednesday: Social Studies 
+
+Review hw at the start of class
+
+Continue with more crash course videos, only 2 this time to spend time together writing.
+
+Crash Course Federalism: https://www.youtube.com/watch?v=J0gosGXSgsI&list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H&index=4
+Constitutional compromises: https://www.youtube.com/watch?v=kCCmuftyj8A&list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H&index=5
 
 # Week 2
 ## Wednesday: Social Studies
