@@ -25,6 +25,9 @@ Wednesday - Social Studies (Watching videos and writing to get mom better at wri
 Friday - RLA (Likely with read theory)
 
 # Week 3
+## Friday: RLA
+First 25 minutes is guided reading, discussion, learning new words, etc from the book. And then another 25 minutes on ReadTheory.
+
 ## Wednesday: Social Studies 
 
 Review hw at the start of class
