@@ -20,9 +20,17 @@ Saturday - Science
 
 Sunday - Math. +20 extra minutes of typing practice
 
-Wednesday - Social Studies (Watching videos and writing to get mom better at writing)
+Wednesday - RLA (Split between reading a book and ReadTheory)
 
 Friday - RLA (Likely with read theory)
+
+
+# Week 4
+## Wednesday. RLA,
+
+having mom read the princess book, going through every word she doesn't know and knowing she knows how to sound it out. Do for 25 minutes, and then the last half of class is read theory
+
+
 
 # Week 3
 ## Friday: RLA
